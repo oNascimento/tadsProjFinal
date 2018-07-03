@@ -1,0 +1,11 @@
+C:\Users\otavi\source\repos\projFinal\projFinal\bin\Debug\netcoreapp2.0\projFinal.deps.json
+C:\Users\otavi\source\repos\projFinal\projFinal\bin\Debug\netcoreapp2.0\projFinal.runtimeconfig.json
+C:\Users\otavi\source\repos\projFinal\projFinal\bin\Debug\netcoreapp2.0\projFinal.runtimeconfig.dev.json
+C:\Users\otavi\source\repos\projFinal\projFinal\bin\Debug\netcoreapp2.0\projFinal.dll
+C:\Users\otavi\source\repos\projFinal\projFinal\obj\Debug\netcoreapp2.0\projFinal.csprojAssemblyReference.cache
+C:\Users\otavi\source\repos\projFinal\projFinal\obj\Debug\netcoreapp2.0\projFinal.csproj.CoreCompileInputs.cache
+C:\Users\otavi\source\repos\projFinal\projFinal\obj\Debug\netcoreapp2.0\projFinal.AssemblyInfoInputs.cache
+C:\Users\otavi\source\repos\projFinal\projFinal\obj\Debug\netcoreapp2.0\projFinal.AssemblyInfo.cs
+C:\Users\otavi\source\repos\projFinal\projFinal\bin\Debug\netcoreapp2.0\projFinal.pdb
+C:\Users\otavi\source\repos\projFinal\projFinal\obj\Debug\netcoreapp2.0\projFinal.dll
+C:\Users\otavi\source\repos\projFinal\projFinal\obj\Debug\netcoreapp2.0\projFinal.pdb
